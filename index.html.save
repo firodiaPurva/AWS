@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+<title>1st page </title>
+<style>
+h3{
+align-content:center;
+font-weight:500;
+font-style:italic;
+}
+button{
+border:solid black 2px;
+color:black;
+background:linear-gradient(to right, #FA4B37, #DF2771);
+}
+</style>
+</head>
+<body>
+<h3> Welcome to home page </h3>
+<button type="button"><a href="two.html">Click here to go to 2nd page</a></button>
+<button type="button"><a href="two.html">Click here to go to 3rd page</a></button>
+<button type="button"><a href="two.html">Click here to go to 4th page</a></button>
+<button type="button"><a href="two.html">Click here to go to 5th  page</a></button>
+
+</body>
+</html>
